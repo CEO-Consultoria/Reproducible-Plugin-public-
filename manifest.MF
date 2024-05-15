@@ -1,0 +1,5 @@
+Manifest-Version: 1.1
+PluginName: TestablePlugin
+CashdeskPOSPlugin: Plugin.Main
+CashDeskVersions: 2.0 FP16
+Version: 1.0
